@@ -1,0 +1,57 @@
+# Microsoft Projesi
+
+Bu proje, Microsoft ekosisteminde geliştirilmiş bir uygulama veya servisi temsil etmektedir. Projenin amacı, yüksek kalite standartlarında, güvenli ve sürdürülebilir bir çözüm sunmaktır.
+
+## İçindekiler
+
+- [Tanıtım](#tanıtım)
+- [Kurulum](#kurulum)
+- [Kullanım](#kullanım)
+- [Katkıda Bulunma](#katkıda-bulunma)
+- [Lisans](#lisans)
+- [İletişim](#iletişim)
+
+## Tanıtım
+
+Bu bölümde projenin kısa bir özetini ve temel özelliklerini açıklayın.
+
+## Kurulum
+
+Projenin kurulumu için aşağıdaki adımları izleyin:
+
+1. Depoyu klonlayın:
+    ```bash
+    git clone https://github.com/<kullanıcı-adı>/<repo-adı>.git
+    ```
+2. Gerekli bağımlılıkları yükleyin:
+    ```bash
+    npm install
+    ```
+    veya
+    ```bash
+    dotnet restore
+    ```
+
+## Kullanım
+
+Projeyi başlatmak için:
+
+```bash
+npm start
+```
+veya
+```bash
+dotnet run
+```
+
+## Katkıda Bulunma
+
+Katkılarınızı memnuniyetle karşılıyoruz! Lütfen katkı rehberini okuyun ve bir pull request açmadan önce bir issue oluşturun.
+
+## Lisans
+
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+
+## İletişim
+
+Daha fazla bilgi için lütfen [proje sahibine](mailto:email@example.com) ulaşın.
